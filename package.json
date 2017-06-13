@@ -1,0 +1,13 @@
+{
+  "name": "newebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": {
+    "test": "echo   \"Error: no test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
