@@ -6798,3 +6798,24 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+.arriere-cont{
+
+
+}
+
+.arriere {
+    background-image:url(http://www.ledomainegourmand.fr/s/img/emotionheader.jpg);
+    opacity:0.5;
+    opacity: 0.5;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+  }
+
+.blog-post-title{
+color: inherit;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    line-height: 100px;
+  }
