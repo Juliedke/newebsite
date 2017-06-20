@@ -568,9 +568,7 @@ th {
 .glyphicon-arrow-up:before {
   content: "\e093";
 }
-.glyphicon-arrow-down:before {
-  content: "\e094";
-}
+
 .glyphicon-share-alt:before {
   content: "\e095";
 }
