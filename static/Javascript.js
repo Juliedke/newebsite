@@ -746,23 +746,6 @@ if (typeof jQuery === 'undefined') {
 +function ($) {
   'use strict';
 
-  // DROPDOWN CLASS DEFINITION
-  // =========================
-
-  
-
-/* ========================================================================
- * Bootstrap: modal.js v3.3.5
- * http://getbootstrap.com/javascript/#modals
- * ========================================================================
- * Copyright 2011-2015 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- * ======================================================================== */
-
-
-+function ($) {
-  'use strict';
-
   // MODAL CLASS DEFINITION
   // ======================
 
@@ -2202,5 +2185,11 @@ if (typeof jQuery === 'undefined') {
       Plugin.call($spy, data)
     })
   })
+
+  "btn btn-primary
+  
+  var greeting=function(name){
+    console.log("Thank you for registering");};
+  }
 
 }(jQuery);
